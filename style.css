@@ -1,0 +1,36 @@
+
+#canvas1 {
+	background: purple;
+	position: absolute;
+	top: 200px;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: purple;
+  }
+  .header {
+    background-color: purple; /* Light pink background */
+    color: white;
+    margin-top: 100px;
+    margin-left: 20px;
+	width: 100%;
+	height: 100%;
+    font-size: 40px;
+  }
+  .p1 {
+    background-color: purple; /* Light pink background */
+    color: white;
+	width: 100%;
+	height: 100%;
+    font-size: 16px;
+  }
